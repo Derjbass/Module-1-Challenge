@@ -4,6 +4,6 @@ Webpage to the Horiseon Search Engine Optimization, Online Reputation Management
 
 Clicking the hyperlinks move you to a portion of the page with the information on that subject.
 
-![Alt text](Module-1-Challenge\Assets\images\WebsiteScreen1.PNG?raw=true)
+![WebsiteScreen1](https://user-images.githubusercontent.com/104521080/174109743-9e5328fb-8dda-413b-8581-a71a99084fbd.PNG)
 
-![Alt text](Module-1-Challenge\Assets\images\WebsiteScreen2.PNG?raw=true)
+![WebsiteScreen2](https://user-images.githubusercontent.com/104521080/174110010-46b10859-a065-4f4f-8b00-3a2d0e9863dc.PNG)
